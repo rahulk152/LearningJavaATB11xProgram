@@ -24,7 +24,7 @@ public class Lab006_Table_of_9 {
         System.out.println();
         System.out.printf("%d * 9 = %d",table,(table*9));
         System.out.println();
-       System.out.printf("%d * 10 = %d",table,(table*10));
+        System.out.printf("%d * 10 = %d",table,(table*10));
 
     }
 }
