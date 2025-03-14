@@ -3,7 +3,7 @@ package ex_Task;
 
 import java.util.Scanner;
 
-public class Lab032_Grade_Calculator {
+public class Task03_Grade_Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter Score Value: ");

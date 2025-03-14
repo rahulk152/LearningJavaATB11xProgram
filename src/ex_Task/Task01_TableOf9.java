@@ -1,6 +1,6 @@
 package ex_Task;
 
-public class Lab006_9_Table {
+public class Task01_TableOf9 {
     public static void main(String[] args) {
         byte table = 9;
         System.out.println("table of 9 is:");
