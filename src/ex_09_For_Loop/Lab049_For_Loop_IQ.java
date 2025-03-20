@@ -6,6 +6,9 @@ public class Lab049_For_Loop_IQ {
             System.out.println(i);
         }
         System.out.println("End");
+        for (int j = 0;j>10 ;) {
+            System.out.println("Hello");
+        }
     }
 
 }

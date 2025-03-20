@@ -8,14 +8,16 @@ public class Task10_Fibonacci_Sequence_Generator {
         System.out.println("Enter Number for Fibonacci sequence : ");
         int n = scanner.nextInt();
         int first = 0, second = 1;
+        int next;
         System.out.print("Fibonacci Series: " + first + ", " + second);
         for (int i = 2; i < n; i++) {
-        int next = first + second;
+        next = first + second;
         System.out.print(", " + next);
         first = second;
         second = next;
 
         }
+
         scanner.close();
     }
 }
