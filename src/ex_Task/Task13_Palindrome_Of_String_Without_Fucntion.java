@@ -2,7 +2,7 @@ package ex_Task;
 
 import java.util.Scanner;
 
-public class Task13_Palindrome_Of_String {
+public class Task13_Palindrome_Of_String_Without_Fucntion {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the String : ");

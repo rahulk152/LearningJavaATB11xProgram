@@ -42,7 +42,7 @@ public class Lab059_String_Functions {
         // Returns the index within this string of the
         // first occurrence of the specified substring.
         System.out.println(s.indexOf("m"));
-
+        
         // 7. length()
         System.out.println(name.length());
 
