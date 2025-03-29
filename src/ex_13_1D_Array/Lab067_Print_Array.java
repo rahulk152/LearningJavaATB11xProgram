@@ -1,4 +1,4 @@
-package ex_13_Array;
+package ex_13_1D_Array;
 
 import java.util.Arrays;
 

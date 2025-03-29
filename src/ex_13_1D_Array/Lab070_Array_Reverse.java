@@ -1,4 +1,4 @@
-package ex_13_Array;
+package ex_13_1D_Array;
 
 public class Lab070_Array_Reverse {
     public static void main(String[] args) {

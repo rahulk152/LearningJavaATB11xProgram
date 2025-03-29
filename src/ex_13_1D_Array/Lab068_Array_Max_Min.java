@@ -1,4 +1,4 @@
-package ex_13_Array;
+package ex_13_1D_Array;
 
 public class Lab068_Array_Max_Min {
     public static void main(String[] args) {

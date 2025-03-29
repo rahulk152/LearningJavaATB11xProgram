@@ -1,4 +1,4 @@
-package ex_13_Array;
+package ex_13_1D_Array;
 
 public class Lab071_Sum_Of_Array {
     public static void main(String[] args) {
