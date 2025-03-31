@@ -1,6 +1,6 @@
 package ex_17_Oops;
 
-public class Lab079_Class_Object {
+public class Lab090_Class_Object {
     public static void main(String[] args) {
         Person p2 = new Person();
         // Person - Class
