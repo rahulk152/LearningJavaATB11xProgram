@@ -1,4 +1,4 @@
-package ex_SDET_Coding_Questions;
+package ex_SDET_Coding_Questions.April_4_2025;
 
 import java.util.Scanner;
 
