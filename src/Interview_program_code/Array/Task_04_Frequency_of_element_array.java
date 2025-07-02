@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Array;
 
 public class Task_04_Frequency_of_element_array {
     public static void main(String[] args) {

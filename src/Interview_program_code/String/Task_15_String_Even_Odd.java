@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.String;
 
 public class Task_15_String_Even_Odd {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.String;
 
 public class Task_19_Extrat_Vowel_From_String {
     public static void main(String[] args) {

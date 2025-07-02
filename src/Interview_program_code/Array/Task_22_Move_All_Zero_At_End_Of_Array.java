@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Array;
 
 public class Task_22_Move_All_Zero_At_End_Of_Array {
     public static void main(String[] args) {

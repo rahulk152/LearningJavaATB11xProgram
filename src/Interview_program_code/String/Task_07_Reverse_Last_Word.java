@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.String;
 
 public class Task_07_Reverse_Last_Word {
     public static void main(String[] args) {

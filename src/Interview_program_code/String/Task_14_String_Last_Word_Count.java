@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.String;
 
 public class Task_14_String_Last_Word_Count {
     public static void main(String[] args) {

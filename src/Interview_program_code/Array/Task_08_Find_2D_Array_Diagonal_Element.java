@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Array;
 
 public class Task_08_Find_2D_Array_Diagonal_Element {
     public static void main(String[] args) {

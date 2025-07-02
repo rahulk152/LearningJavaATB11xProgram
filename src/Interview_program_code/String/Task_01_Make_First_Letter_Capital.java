@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.String;
 
 public class Task_01_Make_First_Letter_Capital {
     public static void main(String[] args) {

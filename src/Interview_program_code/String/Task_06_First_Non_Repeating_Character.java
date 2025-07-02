@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.String;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

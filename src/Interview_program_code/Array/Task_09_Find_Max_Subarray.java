@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Array;
 
 public class Task_09_Find_Max_Subarray {
     public static void main(String[] args) {

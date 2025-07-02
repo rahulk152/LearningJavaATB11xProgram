@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Number;
 
 public class Task_13_Factorial_Number {
     public static void main(String[] args) {

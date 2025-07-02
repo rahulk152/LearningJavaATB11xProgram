@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Number;
 
 import java.math.BigInteger;
 

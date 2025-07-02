@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Array;
 
 import java.util.Arrays;
 import java.util.LinkedHashSet;

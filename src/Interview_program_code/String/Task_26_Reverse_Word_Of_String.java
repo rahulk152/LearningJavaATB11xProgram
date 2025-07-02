@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.String;
 
 public class Task_26_Reverse_Word_Of_String {
     public static void main(String[] args) {

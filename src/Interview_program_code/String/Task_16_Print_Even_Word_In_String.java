@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.String;
 
 public class Task_16_Print_Even_Word_In_String {
     public static void main(String[] args) {

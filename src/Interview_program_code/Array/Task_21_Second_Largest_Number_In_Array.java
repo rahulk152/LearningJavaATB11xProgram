@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Array;
 
 public class Task_21_Second_Largest_Number_In_Array {
     public static void main(String[] args) {

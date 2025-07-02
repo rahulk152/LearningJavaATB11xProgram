@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Number;
 
 public class Task_10_Swap_2_Number {
     public static void main(String[] args) {

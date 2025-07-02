@@ -1,4 +1,4 @@
-package Interview_program_code;
+package Interview_program_code.Array;
 
 public class Task_18_Missing_Array_Element_Bitwise {
     public static void main(String[] args) {
