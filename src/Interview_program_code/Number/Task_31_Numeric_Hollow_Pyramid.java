@@ -1,6 +1,6 @@
 package Interview_program_code.Number;
 
-public interface Task_31_Numeric_Hollow_Pyramid {
+public class Task_31_Numeric_Hollow_Pyramid {
     public static void main(String[] args) {
         int totalNumberOfRows = 5;
 
