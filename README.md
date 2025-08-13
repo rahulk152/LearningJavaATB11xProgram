@@ -51,3 +51,19 @@ Below are the API testing projects practiced using Postman:
 
 This repository serves as a learning path for Java fundamentals and API testing using Postman.
 
+
+# Telit Interview Assignment
+
+Part 1: Student Management System
+
+## Author
+- Jatin Sharma SDET with 10 years of experience in Automation Testing for UI-API-Mobile
+
+[Linked In](https://www.linkedin.com/in/rahulkumarqa/)
+
+
+## Tech Stack
+
+**Programming Language:** Java 11
+
+
