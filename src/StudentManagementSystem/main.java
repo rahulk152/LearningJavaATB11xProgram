@@ -9,13 +9,13 @@ public class main {
         s1.enrollCourse("DSA");
         s1.enrollCourse("Devops");
         s1.enrollCourse("C#");
-        //s1.printStudentInfo();
-        System.out.println(s1);
+        s1.printStudentInfo();
+
         student s2 = new student("Sita",20,"S-12");
         s2.enrollCourse("DSA");
-        System.out.println(s2);
+        s2.printStudentInfo();
         student s3 = new student("Raja",23,"S-13");
         s3.enrollCourse("Devops");
-        System.out.println(s3);
+        s3.printStudentInfo();
     }
 }

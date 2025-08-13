@@ -12,6 +12,22 @@ public class student {
     private String studentId;
     private List<String> courses;
 
+    public int getAge() {
+        return age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getStudentId() {
+        return studentId;
+    }
+
+    public List<String> getCourses() {
+        return courses;
+    }
+
     public student(String name, int age, String studentId) {
         super();
         if (validateAge(age) && validateName(name) && validateStudentId(studentId)){
